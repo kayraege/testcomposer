@@ -1,0 +1,20 @@
+{
+    "name": "kayega/testpackage",
+    "description": "this is a test package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kayega\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kayraegek18",
+            "email": "karayakakayraege@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
