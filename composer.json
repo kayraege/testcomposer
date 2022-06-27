@@ -3,7 +3,7 @@
     "description": "this is a test package",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Kayega\\": "src/"
